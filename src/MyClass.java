@@ -18,8 +18,18 @@ class MyClass {
             System.out.println("4   16      64      256");
 
             System.out.println("Opgave 1.5");
-            double math = (7.5*6.5-4.5*3)/47.5-55;
+            double math = (7.5*6.5-4.5*3)/(47.5-5.5);
             System.out.println(math);
+
+            System.out.println("Opgave 1.6");
+            int sum = (1+2+3+4+5+6+7+8+9+10);
+            System.out.println(sum);
+
+            System.out.println("Opgave 1.12");
+            double kmh = (24/100.35*60)*16/10;
+            System.out.println(kmh);
+
+
         }
     }
 }
